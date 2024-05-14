@@ -7,18 +7,26 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct MovieListPage: View {
+    @ObservedObject var viewModel: MovieListViewModel
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        TabView {
+            MovieListView(movies: viewModel.latestMovie, title: "Latest Movies")
+                .tabItem {
+                    Label("Latest", systemImage: "flame")
+                }
+            
+            MovieListView(movies: viewModel.popularMovies, title: "Popular Movies")
+                .tabItem {
+                    Label("Popular", systemImage: "star")
+                }
         }
-        .padding()
+        .navigationTitle("Movies")
+        .onAppear {
+            viewModel.fetchLatestMovies()
+            viewModel.fetchPopularMovies()
+        }
     }
 }
 
-#Preview {
-    ContentView()
-}

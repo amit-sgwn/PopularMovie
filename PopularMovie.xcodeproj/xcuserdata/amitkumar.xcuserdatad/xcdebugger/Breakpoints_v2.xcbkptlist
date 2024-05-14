@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "77B96B60-C840-4765-ADC0-CCDBD5B8F4E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC05C373-BB90-483A-81CF-77B496E5C8E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMovie/ViewModel/MovieListVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchLatestMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC05C373-BB90-483A-81CF-77B496E5C8E0 - 9348a3c492cd3946"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMovie.MovieListViewModel.fetchLatestMovies() -&gt; ()"
+                  moduleName = "PopularMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitkumar/Desktop/PopularMovie/PopularMovie/ViewModel/MovieListVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+               <Location
+                  uuid = "AC05C373-BB90-483A-81CF-77B496E5C8E0 - 5f7915bc6db3e6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;PopularMovie.Movie, Swift.Error&gt;) -&gt; () in PopularMovie.MovieListViewModel.fetchLatestMovies() -&gt; ()"
+                  moduleName = "PopularMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitkumar/Desktop/PopularMovie/PopularMovie/ViewModel/MovieListVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E07BF570-C521-4016-B4D3-D010E8727FA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMovie/ViewModel/MovieListVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchLatestMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E07BF570-C521-4016-B4D3-D010E8727FA9 - 9348a3c492cd3946"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMovie.MovieListViewModel.fetchLatestMovies() -&gt; ()"
+                  moduleName = "PopularMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitkumar/Desktop/PopularMovie/PopularMovie/ViewModel/MovieListVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+               <Location
+                  uuid = "E07BF570-C521-4016-B4D3-D010E8727FA9 - 5f7915bc6db3e6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;PopularMovie.Movie, Swift.Error&gt;) -&gt; () in PopularMovie.MovieListViewModel.fetchLatestMovies() -&gt; ()"
+                  moduleName = "PopularMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitkumar/Desktop/PopularMovie/PopularMovie/ViewModel/MovieListVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B4EDB45-40E5-4776-86A1-ACD2CD75FD1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMovie/ViewModel/MovieListVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "fetchMovieDetail()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B4EDB45-40E5-4776-86A1-ACD2CD75FD1E - cdda78d2474ca853"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMovie.MovieDetailViewModel.fetchMovieDetail() -&gt; ()"
+                  moduleName = "PopularMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitkumar/Desktop/PopularMovie/PopularMovie/ViewModel/MovieListVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101">
+               </Location>
+               <Location
+                  uuid = "8B4EDB45-40E5-4776-86A1-ACD2CD75FD1E - 8969378b5e4e843b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;PopularMovie.MovieDetail, Swift.Error&gt;) -&gt; () in PopularMovie.MovieDetailViewModel.fetchMovieDetail() -&gt; ()"
+                  moduleName = "PopularMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitkumar/Desktop/PopularMovie/PopularMovie/ViewModel/MovieListVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101">
+               </Location>
+               <Location
+                  uuid = "8B4EDB45-40E5-4776-86A1-ACD2CD75FD1E - b0fb3b2374df542f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;PopularMovie.MovieDetail, Swift.Error&gt;) -&gt; () in PopularMovie.MovieDetailViewModel.fetchMovieDetail() -&gt; ()"
+                  moduleName = "PopularMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitkumar/Desktop/PopularMovie/PopularMovie/ViewModel/MovieListVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

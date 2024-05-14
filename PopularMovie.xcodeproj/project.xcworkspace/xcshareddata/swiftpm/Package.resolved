@@ -1,0 +1,15 @@
+{
+  "originHash" : "96dee6ecbd541f500581590ef2a8089d35907ad42329730bb1cdb77f200619b9",
+  "pins" : [
+    {
+      "identity" : "devrevsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/amit-sgwn/DevRevSDK",
+      "state" : {
+        "revision" : "7fa937f3b490e010ba05d9d294a32fb4a64fb7f9",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 3
+}
